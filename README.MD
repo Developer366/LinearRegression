@@ -12,7 +12,7 @@ the Happiness score of a country based on the GDP per capita score.
 
 Dataset Source: https://www.kaggle.com/brendan45774/countries-life-expectancy
 
-![Screenshot](images/Life Expectancy in North American Countries.png)
+![Screenshot](images/LifeExpectancy_NA.png)
 
 According to the graph, all three countries had a drastic increase in life expectancy between the years 1900 and 2000.
 Canada leads in health expectancy, followed by USA then Mexico. 
@@ -28,7 +28,7 @@ The gross domestic product per capita, or GDP per capita, is a measure
 of a country's economic output that accounts for its number of people. It divides the country's gross domestic product by its total population.
 
 ***
-
+# Training and Test Set
 ![Screenshot](images/TrainingSet.png)
 ![Screenshot](images/Testset.png)
 
