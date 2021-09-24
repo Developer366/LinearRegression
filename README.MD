@@ -1,4 +1,4 @@
-#Linear Regression Analysis
+# Linear Regression Analysis
 ***
 
 I performed data analysis on two data sets using python. The two datasets that 
@@ -8,7 +8,7 @@ I used are the life expectancy of countries and the Happiness score of each coun
 the Happiness score of a country based on the GDP per capita score.
 ***
 
-##Life Expectancy Data [1800-2016]
+## Life Expectancy Data [1800-2016]
 
 Dataset Source: https://www.kaggle.com/brendan45774/countries-life-expectancy
 
@@ -18,7 +18,7 @@ According to the graph, all three countries had a drastic increase in life expec
 Canada leads in health expectancy, followed by USA then Mexico. 
 
 ***
-##Country Happiness based on GDP per Capita [Year 2019]
+## Country Happiness based on GDP per Capita [Year 2019]
 
 World happiness report dataset:
 https://www.kaggle.com/unsdsn/world-happiness?select=2019.csv
@@ -30,15 +30,14 @@ of a country's economic output that accounts for its number of people. It divide
 ***
 
 ![Screenshot](images/TrainingSet.png)
-![Screenshot](images/TestSet.png)
+![Screenshot](images/Testset.png)
 
 
 ***
 
-###Project Sources:
+### Project Sources:
 
-- https://www.w3schools.com/python/matplotlib_intro.asp  
-  
+- https://www.w3schools.com/python/matplotlib_intro.asp
 - https://www.w3schools.com/python/python_ml_getting_started.asp
 - https://www.youtube.com/watch?v=jEgVto5QME8&ab_channel=PenguinAnalytics
 - https://www.youtube.com/watch?v=nUPQzaZQ0X0&ab_channel=SalahBenkorichi
